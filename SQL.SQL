@@ -31,4 +31,5 @@ CREATE TABLE outgoing (
     hobbies TEXT,
     notes TEXT,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+
 );
